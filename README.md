@@ -1,2 +1,3 @@
-# alu-web_front_end
-This project will cover Advanced HTML topics, while creating a website. 
+<<<<<<< HEAD
+#Alu web front end
+This repository will contain information on creating a website using Advanced HTML
