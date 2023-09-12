@@ -1,4 +1,4 @@
 
 #Alu web front end
-This repository will contain information on creating a website using Advanced HTML
+This repository will contain information on Web-Front development for the trimester.
 
