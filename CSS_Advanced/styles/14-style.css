@@ -1,7 +1,4 @@
-/* Import normalize.css */
-@import url('https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css');
-
-/* Your custom CSS styles start here */
+/*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
 :root {
   --color-primary: #d73953;
   --color-black: #090909;
