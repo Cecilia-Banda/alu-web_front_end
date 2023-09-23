@@ -1,9 +1,8 @@
-/* Define list of names */
-$list-names: Julien John Sam Damian;
+/* For each  */
+@import "11-photos";
 
-  {
-
-/* Loop through the list of names and apply the mixin */
-@each $name in $list-names
-  
+@each $name in $list-names {
+	.photo-#{$name} {
+		background: image-url("photos/#{$name}.jpg") no-repeat;
+	}
 }
