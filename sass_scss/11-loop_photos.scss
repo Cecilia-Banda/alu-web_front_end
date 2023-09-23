@@ -1,2 +1,14 @@
-/* list-names */
+/* Define your list of names */
 $list-names: julien john sam damian;
+
+/* Create a mixin to set background images */
+@mixin set-background-image($name) {
+  &.#{$name} {
+    background-image: url('#{$name}.jpg'); /* Assuming image files are named after the names */
+  }
+}
+
+/* Loop through the list of names and apply the mixin */
+@each $name in $list-names {
+  @include set-background-image($name);
+}
