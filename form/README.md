@@ -1,0 +1,1 @@
+This will include information on forms, including: How to create an HTML5 form, choose the right input type, etc
