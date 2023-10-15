@@ -1,0 +1,1 @@
+This read me will contain data of responseive design, including: Mobile-first designs, Media-queries, sizes to use for responsive web design, etc
