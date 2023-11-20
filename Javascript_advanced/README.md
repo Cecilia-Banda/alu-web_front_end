@@ -1,0 +1,1 @@
+This folder will contain some information on advanced javascript conceepts like lexical scoping, closure, call stack, Binding, and CallBancks
