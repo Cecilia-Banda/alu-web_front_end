@@ -64,7 +64,7 @@
             }
 
             function listPosts() {
-                $.get('http://localhost:3000/posts', {}, 'json')
+                $.get('http://localhost:5501/posts', {}, 'json')
                     .done(function ( json ) {
                         $.each(json, function(index, post) {
                             addPostRow(post);
